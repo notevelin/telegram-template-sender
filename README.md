@@ -16,7 +16,7 @@ A small command-line tool built on [Telethon](https://github.com/LonamiWebs/Tele
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/telegram-template-sender.git
+git clone https://github.com/notevelin/telegram-template-sender.git
 cd telegram-template-sender
 pip install -r requirements.txt
 ```
