@@ -16,7 +16,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<твой-юзер>/telegram-template-sender.git
+git clone https://github.com/notevelin/telegram-template-sender.git
 cd telegram-template-sender
 pip install -r requirements.txt
 ```
